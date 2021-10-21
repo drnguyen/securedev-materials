@@ -11,7 +11,7 @@ This repo contains tools and materials for SecureDev Training.
 
 ## Setup
 
-*Zap Proxy* and *MS Threat Modelling Tool* are available under the *tools* folder. Please download and install them like installing other Windows software.
+*Zap Proxy* and *MS Threat Modelling Tool* are available under the [Tools](https://github.com/drnguyen/securedev-materials/tree/main/tools) folder. Please download and install them like installing other Windows software.
 
 
 *WebGoat* is self-contained server. We run it directly with java in a console:
